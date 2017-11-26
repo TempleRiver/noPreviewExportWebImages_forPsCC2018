@@ -1,4 +1,4 @@
-#ExportWebImage_ver1.2.jsx for PhotoshopCC2018
+# ExportWebImage_ver1.2.jsx for PhotoshopCC2018
 
 【著作権者】QuirogaL
 【連絡先】twitter.com/yudough
