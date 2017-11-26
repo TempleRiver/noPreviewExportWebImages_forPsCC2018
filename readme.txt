@@ -1,4 +1,4 @@
-ExportWebImage_CC2018_ver0.5.jsx
+ExportWebImage_ver1.2.jsx for PhotoshopCC2018
 
 【著作権者】QuirogaL
 【連絡先】twitter.com/yudough
@@ -6,7 +6,7 @@ ExportWebImage_CC2018_ver0.5.jsx
 ―――――――――――――――――――――――――――――――――――――
 ≪著作権および免責事項≫
 
-　本スクリプトは改変・二次配布等フリーです。自由にご使用ください。
+　本スクリプトは改変フリーです。二次配布はご遠慮ください。
 
 　なおこのスクリプトを使用したことによって生じたすべての障害・損害・不具
 合等に関しては、私と私の関係者および私の所属するいかなる団体・組織とも、
@@ -14,10 +14,10 @@ ExportWebImage_CC2018_ver0.5.jsx
 
 
 ・はじめに
-	ExportWebImage_CC2018_ver0.5.jsxは、PhotoshopのPNG、JPG画像をWebイメージ用に書き出すスクリプトです。
+	ExportWebImage_ver1.2.jsxは、PhotoshopのPNG、JPG画像をWebイメージ用に書き出すスクリプトです。
 	標準機能である画像プレビューの工程をスキップすることで、解像度の高い高重量なファイルを半分程度の速さで書き出すことが可能です。
 ・インストール方法
-	1.Photoshopのインストールディレクトリの「Scripts」フォルダ内に「ExportWebImage_CC2018_ver0.5.jsx」をコピーして下さい。
+	1.Photoshopのインストールディレクトリの「Scripts」フォルダ内に「ExportWebImage_ver1.2.jsx」をコピーして下さい。
 		
 		WindowsOSの場合は以下のディレクトリに保存して下さい。
 		（インストール先やPhotoshopのバージョンに合わせてディレクトリを変更してください。）
@@ -33,7 +33,7 @@ ExportWebImage_CC2018_ver0.5.jsx
 ・更新方法
 	ファイルを新しいものにそのまま上書きして下さい。
 ・アンインストール方法
-	ExportWebImage_CC2018_ver0.5.jsxを削除して下さい。
+	ExportWebImage_ver1.2.jsxを削除して下さい。
 
 ・使い方
 	1.	書き出したいドキュメントを開き、表示します。
@@ -42,4 +42,4 @@ ExportWebImage_CC2018_ver0.5.jsx
 		（リサイズしたい場合、長辺のテキストボックスには必ず半角数字で入力するようお願いします。）
 	4.	リサイズが実行されます。
 ・履歴
-	--- 2017/11/26	ver0.5公開、GUIが正常に動作するように変更する予定
+	--- 2017/11/26	ver1.2公開、スクリプトが正常に動作するように修正。GUIも若干改良しました。
